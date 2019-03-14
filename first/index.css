@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background: rgb(219, 219, 219);
+    width: 100%;
+    height: 100vh;
+}
+
+.header {
+    background: rgb(71, 71, 71);
+    width: 100%;
+    height: 20vh;
+    color: white
+}
+
+
+.main-content {
+    background:white;
+    width: 75%;
+    height: 70vh;
+    color: black;
+    margin: 0px 100px 0px 225px;
+}
+
+
+.footer {
+    background: rgb(83, 83, 83);
+    width: 75%;
+    height: 10vh;
+    margin: 25;
+    margin: 0px 100px 0px 225px;
+    color: white;
+}
